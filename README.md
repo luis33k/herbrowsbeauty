@@ -1,29 +1,23 @@
-# HerBrowsBeauty LLC - Website Rebuild
+# ✨ HerBrowsBeauty LLC - Website Rebuild ✨
 
-## Overview
+## 🌟 Overview  
 
-This repository contains the source code for the rebuilt website of **HerBrowsBeauty LLC**, a beauty salon specializing in eyebrow services. The website has been designed to provide an elegant and user-friendly experience for clients looking to book appointments and learn more about the services offered.
+Welcome to the **HerBrowsBeauty LLC** website rebuild repository! 🎉 This project brings an elegant, user-friendly experience to clients looking to **book eyebrow services** and explore the salon’s offerings.  
 
-## Features
+## 🚀 Features  
 
-- **Responsive Design**: The website is fully responsive, ensuring a seamless experience across all devices.
-- **Service Listings**: Detailed descriptions of services offered, including pricing and booking options.
-- **Appointment Booking**: A user-friendly form for clients to book appointments directly through the website.
-- **Gallery**: A section showcasing the latest work and services provided by the salon.
-- **Contact Information**: Easy access to contact details, including phone number and email.
+✅ **Responsive Design** – Ensures seamless browsing across all devices.  
+✅ **Service Listings** – Detailed descriptions, pricing, and easy booking.  
+✅ **Appointment Booking** – A smooth and user-friendly booking system.  
+✅ **Gallery** – Showcasing the salon’s best work.  
+✅ **Contact Information** – Quick access to phone, email, and social media.  
 
-## Technologies Used
+## 🛠️ Technologies Used  
 
-- **HTML5**: For structuring the content of the website.
-- **CSS3**: For styling and layout.
-- **JavaScript**: For interactive elements and functionality.
-- **Google Fonts**: For typography.
-- **Ionicons**: For icons used throughout the website.
+🔹 **HTML5** – Structure and content formatting.  
+🔹 **CSS3** – Elegant styling and layouts.  
+🔹 **JavaScript** – Interactivity and dynamic elements.  
+🔹 **Google Fonts** – Beautiful typography choices.  
+🔹 **Ionicons** – Sleek icons for a modern look.  
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/herbrowsbeauty-website.git
+# Luis Gornes
