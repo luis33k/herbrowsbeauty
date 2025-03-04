@@ -20,4 +20,4 @@ Welcome to the **HerBrowsBeauty LLC** website rebuild repository! 🎉 This proj
 🔹 **Google Fonts** – Beautiful typography choices.  
 🔹 **Ionicons** – Sleek icons for a modern look.  
 
-# Luis Gornes
+by Luis Gornes
